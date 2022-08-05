@@ -9,4 +9,4 @@ https://www.kaggle.com/competitions/amex-default-prediction/discussion/328565
 とりあえず今日はEDAと言いつつもただデータを取り込んだだけだった…
 
 ## 2022/08/05
-_gitを少し使えるようになってすごく嬉しい。（8時間の犠牲）これからが楽しみ
+・gitを少し使えるようになってすごく嬉しい。（8時間の犠牲）これからが楽しみ
