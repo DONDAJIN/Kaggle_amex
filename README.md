@@ -10,3 +10,6 @@ https://www.kaggle.com/competitions/amex-default-prediction/discussion/328565
 
 ## 2022/08/05
 ・gitを少し使えるようになってすごく嬉しい。（8時間の犠牲）これからが楽しみ
+
+## 2022/08/05
+EDA.ipynbに内容を追加し、修正のみ
